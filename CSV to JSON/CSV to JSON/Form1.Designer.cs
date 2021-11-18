@@ -39,6 +39,9 @@ namespace CSV_to_JSON
             // 
             // dataGridView1
             // 
+            this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(12, 56);
             this.dataGridView1.Name = "dataGridView1";
@@ -58,7 +61,8 @@ namespace CSV_to_JSON
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(418, 12);
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button2.Location = new System.Drawing.Point(677, 12);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(111, 38);
             this.button2.TabIndex = 2;
@@ -68,9 +72,11 @@ namespace CSV_to_JSON
             // 
             // textBox1
             // 
+            this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.textBox1.Location = new System.Drawing.Point(129, 27);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(283, 23);
+            this.textBox1.Size = new System.Drawing.Size(542, 23);
             this.textBox1.TabIndex = 3;
             // 
             // label1

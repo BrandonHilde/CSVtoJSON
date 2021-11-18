@@ -13,3 +13,18 @@ C:\Users\Brandon\source\repos\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CS
 C:\Users\Brandon\source\repos\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.dll
 C:\Users\Brandon\source\repos\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.pdb
 C:\Users\Brandon\source\repos\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.genruntimeconfig.cache
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\bin\Debug\netcoreapp3.1\CSV to JSON.exe
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\bin\Debug\netcoreapp3.1\CSV to JSON.deps.json
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\bin\Debug\netcoreapp3.1\CSV to JSON.runtimeconfig.json
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\bin\Debug\netcoreapp3.1\CSV to JSON.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\bin\Debug\netcoreapp3.1\CSV to JSON.dll
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\bin\Debug\netcoreapp3.1\CSV to JSON.pdb
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV_to_JSON.Form1.resources
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.dll
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.pdb
+C:\Users\Brandon\source\repos\CSV to JSON\CSVtoJSON\CSV to JSON\CSV to JSON\obj\Debug\netcoreapp3.1\CSV to JSON.genruntimeconfig.cache

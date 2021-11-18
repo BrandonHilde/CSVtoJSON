@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zVhYspJhSI19tUSQ42s/y+BJ6djtItN2lHvnHW4yafFQgPoReB5HHcWedJ/9N7x8G0OU5p4vVKEGLKHbNQwfPQ==",
+  "dgSpecHash": "E/vx0pkf9uDcWh0/sdbx53PkRU1p7lpz8qVIQ6nw8O9nV7crHY/S8A5fuLjwcpUkwVCTJJ9U0fk0I/KCaXEvIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj",
+  "projectFilePath": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSVtoJSON\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

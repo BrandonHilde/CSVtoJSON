@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj": {}
+    "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSVtoJSON\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj": {
+    "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSVtoJSON\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj",
+        "projectUniqueName": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSVtoJSON\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj",
         "projectName": "CSV to JSON",
-        "projectPath": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj",
+        "projectPath": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSVtoJSON\\CSV to JSON\\CSV to JSON\\CSV to JSON.csproj",
         "packagesPath": "C:\\Users\\Brandon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSV to JSON\\obj\\",
+        "outputPath": "C:\\Users\\Brandon\\source\\repos\\CSV to JSON\\CSVtoJSON\\CSV to JSON\\CSV to JSON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
