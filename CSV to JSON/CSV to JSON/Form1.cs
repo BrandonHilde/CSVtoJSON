@@ -98,7 +98,7 @@ namespace CSV_to_JSON
                         json.Add(nLine);
                     }
 
-                    File.WriteAllText("csvtojs.json", ConvertLinesToJSON(json));
+                    File.WriteAllText("csvtojson.js", ConvertLinesToJSON(json));
                 }
                 else
                 {
@@ -113,7 +113,7 @@ namespace CSV_to_JSON
 
         public string ConvertLinesToJSON(List<string> Lns)
         {
-            string json = "{ \"data\": {";
+            string json = "var DATA = { \"data\": {";
 
             for (int i = 0; i < Lns.Count; i++)
             {
